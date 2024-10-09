@@ -1,6 +1,6 @@
 # Full Stack Developer
 
-#### Accomplished senior-level executive with over 7+ years of successful strategic and tactical leadership in the information technology and finance industries. Visionary and creative, committed to excellence with expertise in managing organizational change to achieve maximum results. Entrepreneurial leadership style with highly effective planning, organizational, and communication skills, and a solutions-oriented approach to problem-solving. 
+### Accomplished senior-level executive with over 7+ years of successful strategic and tactical leadership in the information technology and finance industries. Visionary and creative, committed to excellence with expertise in managing organizational change to achieve maximum results. Entrepreneurial leadership style with highly effective planning, organizational, and communication skills, and a solutions-oriented approach to problem-solving. 
 
 #### Tech Stacks: JavaScript, Python, PHP, C#, ReactJs, React Native, Flutter, NodeJs, HTML, CSS, Git, Docker, MySQL, MSSQL, MongoDB, PostgreSQL
 
