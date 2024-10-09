@@ -1,6 +1,6 @@
 # Full Stack Developer
 
-#### Tech Stacks: JavaScript, Python, PHP, C#, ReactJs, React Native, Flutter, NodeJs, HTML, CSS, MySQL, MSSQL, MongoDB, PostgreSQL
+#### Tech Stacks: JavaScript, Python, PHP, C#, ReactJs, React Native, Flutter, NodeJs, HTML, CSS, Git, Docker, MySQL, MSSQL, MongoDB, PostgreSQL
 
 ## Education
 - B.Sc. Computer Science | Ambrose Alli University (August, 2007)
@@ -11,6 +11,9 @@
 - Microsoft Certified Professional (MCP)
 
 ## Work Experience
+**Software Developer @ Ironclad Technologies
+- Task management system;
+
 **Full Statck Developer @ Midland Financial Services
 - e-Accounting web application 1;
 - e-Health web application 2;
@@ -18,7 +21,7 @@
 
 ## Projects
 **Mscinet Insurance brokers
-- [Publication](www.mscinetinsurancebrokers.com.ng)
+- [Project](www.mscinetinsurancebrokers.com.ng)
 **Trident 3 Logigistics
 - [Publication](https://tri3logistics.com/)
 **Forte Financial
@@ -28,4 +31,4 @@
 **e-Accounting
 - [Publication](localhost/intranet)
 **e-Health
-- (Publication](localhost/intranet)
+- [Publication](localhost/intranet)
