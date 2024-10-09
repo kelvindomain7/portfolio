@@ -21,14 +21,14 @@
 
 ## Projects
 **Mscinet Insurance brokers
-- [Project](www.mscinetinsurancebrokers.com.ng)
+- [Project](http://mcsinetinsurancebrokers.com.ng/)
 **Trident 3 Logigistics
-- [Publication](https://tri3logistics.com/)
+- [Project](https://tri3logistics.com/)
 **Forte Financial
-- [Publication](https://fortefinancial.com.ng/)
+- [Project](https://fortefinancial.com.ng/)
 **Euroclean Refinary
-- [Publication](https://eurocleanrefinery.com.ng/)
+- [Project](https://eurocleanrefinery.com.ng/)
 **e-Accounting
-- [Publication](localhost/intranet)
+- [Project](localhost/intranet)
 **e-Health
-- [Publication](localhost/intranet)
+- [Project](localhost/intranet)
