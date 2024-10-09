@@ -21,7 +21,7 @@
 
 ## Projects
 **Mscinet Insurance brokers
-- [Project](http://mcsinetinsurancebrokers.com.ng/)
+- [Project](http://mcsinetinsurancebrokers.com.ng/);
 - 
 **Trident 3 Logigistics
 - [Project](https://tri3logistics.com/)
