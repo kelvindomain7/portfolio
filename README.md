@@ -20,10 +20,10 @@
 - Leave management web application 3;
 
 ## Projects
-**Mscinet Insurance brokers
-- [Project](http://mcsinetinsurancebrokers.com.ng/)
 **Trident 3 Logigistics
 - [Project](https://tri3logistics.com/)
+**Mscinet Insurance brokers
+- [Project](http://mcsinetinsurancebrokers.com.ng/)
 **Forte Financial
 - [Project](https://fortefinancial.com.ng/)
 **Euroclean Refinary
