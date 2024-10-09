@@ -12,28 +12,31 @@
 
 ## Work Experience
 **Software Developer @ Ironclad Technologies
-- Task management system
+- Task management system | CTO
 
 **Full Statck Developer @ Midland Financial Services
 - e-Accounting web application 1
-- e-Health web application 2
+- e-Health web application  2
 - Leave management web application 3
 
 ## Projects
-**Mscinet Insurance brokers
+** Mscinet Insurance brokers | Team lead
 - [Project](http://mcsinetinsurancebrokers.com.ng/);
-- 
-**Trident 3 Logigistics
+ 
+** Trident 3 Logigistics | Team lead
 - [Project](https://tri3logistics.com/)
-- 
-**Forte Financial
+ 
+** Forte Financial |  Team lead
 - [Project](https://fortefinancial.com.ng/)
-- 
-**Euroclean Refinary
+ 
+** Euroclean Refinary | Team lead
 - [Project](https://eurocleanrefinery.com.ng/)
-- 
-**e-Accounting
+  
+** e-Accounting | Team lead
 - [Project](localhost/intranet)
-- 
-**e-Health
+ 
+** e-Health | Team lead
+- [Project](localhost/intranet)
+
+** Task Management System | Team lead
 - [Project](localhost/intranet)
