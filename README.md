@@ -33,10 +33,10 @@
 - [Project](https://eurocleanrefinery.com.ng/)
   
 ** e-Accounting | Team lead
-- [Project](localhost/intranet)
+- localhost/intranet
  
 ** e-Health | Team lead
-- [Project](localhost/intranet)
+- localhost/intranet
 
 ** Task Management System | Team lead
-- [Project](localhost/intranet)
+- localhost/intranet
